@@ -1,0 +1,17 @@
+com\computech\testcases\OrangHRMTest2.class
+com\computech\factory\ExcelDataProvider.class
+com\computech\testcases\DDFOrangHRMLoginTest.class
+com\computech\factory\BrowserFactory.class
+com\computech\testcases\OrangHRMLoginTest1.class
+com\computech\pages\LogoutPage.class
+com\computech\testcases\BaseClass.class
+com\computech\testcases\DDFOrangHRMLoginTest2.class
+com\computech\unittests\BrowserAppUnitTest.class
+com\computech\unittests\ConfigDataUnitTest.class
+com\computech\unittests\ExcelDataUnitTest.class
+com\computech\pages\AdminPage.class
+com\computech\pages\LeavePage.class
+com\computech\factory\DataProviderFactory.class
+com\computech\utility\Helper.class
+com\computech\factory\ConfigDataProvider.class
+com\computech\pages\LoginPage.class
